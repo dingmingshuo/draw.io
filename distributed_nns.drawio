@@ -503,6 +503,9 @@
         <mxCell id="RiKn49DDYvjBkJy4CC8n-167" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontSize=10;" value="▹ Seperate NNS output into three types" vertex="1">
           <mxGeometry height="20" width="120" x="530" y="320" as="geometry" />
         </mxCell>
+        <mxCell id="RiKn49DDYvjBkJy4CC8n-168" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="(b) Single round structure (\(p=5\) and \(k=1\))" vertex="1">
+          <mxGeometry height="30" width="280" x="80" y="170" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
