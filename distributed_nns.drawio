@@ -79,10 +79,10 @@
         <mxCell id="RiKn49DDYvjBkJy4CC8n-63" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontFamily=Times New Roman;" value="" vertex="1">
           <mxGeometry height="130" width="80" x="170" y="220" as="geometry" />
         </mxCell>
-        <mxCell id="RiKn49DDYvjBkJy4CC8n-64" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" value="$$\bar{S}_0$$" vertex="1">
+        <mxCell id="RiKn49DDYvjBkJy4CC8n-64" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" value="$$\bar{S}_1$$" vertex="1">
           <mxGeometry height="20" width="60" x="180" y="230" as="geometry" />
         </mxCell>
-        <mxCell id="RiKn49DDYvjBkJy4CC8n-65" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" value="$$\bar{S}_4$$" vertex="1">
+        <mxCell id="RiKn49DDYvjBkJy4CC8n-65" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" value="$$\bar{S}_0$$" vertex="1">
           <mxGeometry height="20" width="60" x="180" y="260" as="geometry" />
         </mxCell>
         <mxCell id="RiKn49DDYvjBkJy4CC8n-66" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" value="$$\mathtt{LocalNNS}$$" vertex="1">
@@ -151,10 +151,10 @@
         <mxCell id="RiKn49DDYvjBkJy4CC8n-79" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontFamily=Times New Roman;" value="" vertex="1">
           <mxGeometry height="130" width="80" x="260" y="220" as="geometry" />
         </mxCell>
-        <mxCell id="RiKn49DDYvjBkJy4CC8n-80" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" value="$$\bar{S}_0$$" vertex="1">
+        <mxCell id="RiKn49DDYvjBkJy4CC8n-80" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" value="$$\bar{S}_2$$" vertex="1">
           <mxGeometry height="20" width="60" x="270" y="230" as="geometry" />
         </mxCell>
-        <mxCell id="RiKn49DDYvjBkJy4CC8n-81" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" value="$$\bar{S}_4$$" vertex="1">
+        <mxCell id="RiKn49DDYvjBkJy4CC8n-81" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" value="$$\bar{S}_1$$" vertex="1">
           <mxGeometry height="20" width="60" x="270" y="260" as="geometry" />
         </mxCell>
         <mxCell id="RiKn49DDYvjBkJy4CC8n-82" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" value="$$\mathtt{LocalNNS}$$" vertex="1">
@@ -223,10 +223,10 @@
         <mxCell id="RiKn49DDYvjBkJy4CC8n-95" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontFamily=Times New Roman;" value="" vertex="1">
           <mxGeometry height="130" width="80" x="350" y="220" as="geometry" />
         </mxCell>
-        <mxCell id="RiKn49DDYvjBkJy4CC8n-96" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" value="$$\bar{S}_0$$" vertex="1">
+        <mxCell id="RiKn49DDYvjBkJy4CC8n-96" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" value="$$\bar{S}_3$$" vertex="1">
           <mxGeometry height="20" width="60" x="360" y="230" as="geometry" />
         </mxCell>
-        <mxCell id="RiKn49DDYvjBkJy4CC8n-97" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" value="$$\bar{S}_4$$" vertex="1">
+        <mxCell id="RiKn49DDYvjBkJy4CC8n-97" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" value="$$\bar{S}_2$$" vertex="1">
           <mxGeometry height="20" width="60" x="360" y="260" as="geometry" />
         </mxCell>
         <mxCell id="RiKn49DDYvjBkJy4CC8n-98" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" value="$$\mathtt{LocalNNS}$$" vertex="1">
@@ -295,10 +295,10 @@
         <mxCell id="RiKn49DDYvjBkJy4CC8n-111" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontFamily=Times New Roman;" value="" vertex="1">
           <mxGeometry height="130" width="80" x="440" y="220" as="geometry" />
         </mxCell>
-        <mxCell id="RiKn49DDYvjBkJy4CC8n-112" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" value="$$\bar{S}_0$$" vertex="1">
+        <mxCell id="RiKn49DDYvjBkJy4CC8n-112" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" value="$$\bar{S}_4$$" vertex="1">
           <mxGeometry height="20" width="60" x="450" y="230" as="geometry" />
         </mxCell>
-        <mxCell id="RiKn49DDYvjBkJy4CC8n-113" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" value="$$\bar{S}_4$$" vertex="1">
+        <mxCell id="RiKn49DDYvjBkJy4CC8n-113" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" value="$$\bar{S}_3$$" vertex="1">
           <mxGeometry height="20" width="60" x="450" y="260" as="geometry" />
         </mxCell>
         <mxCell id="RiKn49DDYvjBkJy4CC8n-114" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" value="$$\mathtt{LocalNNS}$$" vertex="1">
@@ -491,8 +491,17 @@
         <mxCell id="RiKn49DDYvjBkJy4CC8n-159" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontSize=10;" value="Type 1: \(\bf{b} - \bf{a}\)&lt;div&gt;Gather to \(k\)&lt;/div&gt;" vertex="1">
           <mxGeometry height="20" width="110" x="530" y="370" as="geometry" />
         </mxCell>
-        <mxCell id="RiKn49DDYvjBkJy4CC8n-160" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;" value="▹&amp;nbsp;Pluggable NNS kernel:&lt;div&gt;Bruteforce, BGJ ...&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="130" x="530" y="285" as="geometry" />
+        <mxCell id="RiKn49DDYvjBkJy4CC8n-160" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontSize=10;" value="▹&amp;nbsp;Pluggable NNS kernel:&lt;div&gt;Bruteforce, BGJ ...&lt;/div&gt;" vertex="1">
+          <mxGeometry height="20" width="130" x="530" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="RiKn49DDYvjBkJy4CC8n-165" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontSize=10;" value="▹ Dataset received by Cannon-style rotation" vertex="1">
+          <mxGeometry height="20" width="130" x="530" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="RiKn49DDYvjBkJy4CC8n-166" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontSize=10;" value="▹ Local Dataset" vertex="1">
+          <mxGeometry height="20" width="130" x="530" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="RiKn49DDYvjBkJy4CC8n-167" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontSize=10;" value="▹ Seperate NNS output into three types" vertex="1">
+          <mxGeometry height="20" width="120" x="530" y="320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
